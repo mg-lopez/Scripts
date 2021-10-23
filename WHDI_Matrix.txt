@@ -11,11 +11,11 @@ Print:@echo off
 Press:176
 Press:176
 CustomDelay:100
-Print:color 02
+Print:mode 1000
 Press:176
 Press:176
 CustomDelay:100
-Print:mode 1000
+Print:color 02
 Press:176
 Press:176
 CustomDelay:100
@@ -47,8 +47,7 @@ Press:179
 Press:179
 Press:179
 Press:176
-Press:215
-Press:217
+Press:218
 Press:176
 Press:179
 Press:179
